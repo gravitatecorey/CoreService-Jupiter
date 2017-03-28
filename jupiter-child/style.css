@@ -1,0 +1,15 @@
+/*
+Theme Name:     Gravitate Core Jupiter Child Theme
+Theme URI: 		http://themeforest.net/user/artbees
+Description:    Child theme for the Jupiter theme
+Author:         Gravitate Design
+Theme URI: 		http://themeforest.net/user/artbees
+Template:       jupiter
+Version:        1.0
+*/
+
+/* Used to fix any bugs in Jupiter */
+@import url('/library/fixes.css');
+
+/* Used for complex addons of jupiter theme */
+@import url('/library/addons.css');
